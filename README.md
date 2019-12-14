@@ -5,7 +5,7 @@ A simple Calculator app created for a blog post at [testdriven.io](https://testd
 ## Local Setup
 
 ```sh
-$ git clone git@github.com:calebpollman/react-calculator.git
+$ git clone git@github.com:AragonCodes/react-calculator-with-tdd.git
 ```
 
 ```sh
