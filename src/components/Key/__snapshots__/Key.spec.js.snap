@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Key should render correctly 1`] = `
+"<div className=\\"key-container \\" onClick={[Function: onClick]}>
+  <p className=\\"key-value\\" />
+</div>"
+`;
